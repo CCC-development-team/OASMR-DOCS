@@ -1,4 +1,4 @@
-<h1><img src="../img/ensicaen.png" width="100"> <a href="https://github.com/CCC-development-team/OASMR" style="text-align: center"> Projet OASMR - Compte rendu réunion <img src="../img/logo.png" width="100" style="float: right;"></h1> 
+<h1><img src="../img/ensicaen.png" width="100"> <a href="https://github.com/CCC-development-team/OASMR" style="text-align: center"> Projet OASMR - Compte rendu</a> </h1> 
 
 **Objet** : jeej
 
@@ -18,8 +18,6 @@ Secrétaire de séance :
 
 ### Points abordés
 
-
-
 1.  Point n°1
 
 2.  Point n°2
@@ -34,3 +32,4 @@ Secrétaire de séance :
 | ---- | --------------- | ---- | ----- |
 |      |                 |      |       |
 |      |                 |      |       |
+
