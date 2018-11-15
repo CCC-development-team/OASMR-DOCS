@@ -30,7 +30,7 @@ Secrétaire de séance : Pierre Chopinet
 
 4.   Rythme de réunions fixé à 3 semaines
 
-5.   Priorité à apporté à l'interface graphique par rapport au Framework
+5.   Priorité à apporter au Framework par rapport à l'interface graphique
 
 ### Relevé de Décisions/Actions
 
