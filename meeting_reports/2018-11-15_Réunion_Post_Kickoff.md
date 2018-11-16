@@ -18,14 +18,16 @@ Secrétaire de séance : Pierre Chopinet
 
 ### Points abordés
 
-1.  Présentation projet au tuteur
+1.  Présentation projet au tuteur :
+
     Le tuteur étant absent au kick-off l'équipe du projet a présenté le projet au tuteur. 
 
 2.  Déploiement du projet
 
     Discussion sur comment et ou déployer le projet pour le tester.
 
-3.  Risques liés au projet
+3.  Risques liés au projet : 
+
     Risque majeur sur la tâche de librairie de network, en effet sans cette librairie impossible de réaliser le projet.
 
 4.   Rythme de réunions fixé à 3 semaines
