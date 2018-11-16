@@ -2,7 +2,7 @@
 
 **Objet** : jeej
 
-**Date** : yyyy mm dd 
+**Date** : yyyy-mm-dd 
 
 | Participants                     | Absents |
 | -------------------------------- | ------- |
