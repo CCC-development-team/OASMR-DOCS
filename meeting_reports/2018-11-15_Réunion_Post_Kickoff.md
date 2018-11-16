@@ -20,11 +20,11 @@ Secrétaire de séance : Pierre Chopinet
 
 1.  Présentation projet au tuteur :
 
-    Le tuteur étant absent au kick-off l'équipe du projet a présenté le projet au tuteur. 
+    Le tuteur étant absent au kick-off, l'équipe du projet a présenté le projet au tuteur. 
 
 2.  Déploiement du projet
 
-    Discussion sur comment et ou déployer le projet pour le tester.
+    Discussion sur comment et ou déployer le projet, pour le tester.
 
 3.  Risques liés au projet : 
 
