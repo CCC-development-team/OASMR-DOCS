@@ -22,7 +22,7 @@ Secrétaire de séance : Pierre Chopinet
 
     Le tuteur étant absent au kick-off, l'équipe du projet a présenté le projet au tuteur. 
 
-2.  Déploiement du projet
+2.  Déploiement du projet :
 
     Discussion sur comment et ou déployer le projet, pour le tester.
 
