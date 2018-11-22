@@ -25,10 +25,8 @@ Secrétaire de séance : Paul Freifer
 
 ### Relevé de Décisions/Actions
 
-| N°   | Actions à mener                       | Qui          | Quand                |
-| ---- | ------------------------------------- | ------------ | -----------          |
-| 1    | Commencer à coder l'IHM               | Julien       | avant le 06 décembre |
-| 2    | Mettre en place une communication     | Pierre       | avant le 06 décembre |
-|      | superviseur/machine                   |              |                      |
-| 3    | Créer l'interface de gestion des      | Axel et Paul | avant le 06 décembre |
-|      | paquets                               |              |                      |
+| N°   | Actions à mener                                        | Qui          | Quand                |
+| ---- | -------------------------------------                  | ------------ | -----------          |
+| 1    | Commencer à coder l'IHM                                | Julien       | avant le 06 décembre |
+| 2    | Mettre en place une communication superviseur/machine  | Pierre       | avant le 06 décembre |
+| 3    | Créer l'interface de gestion des paquets               | Axel et Paul | avant le 06 décembre |
