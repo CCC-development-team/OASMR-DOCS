@@ -6,7 +6,7 @@
 
 | Participants                     | Absents       |
 | -------------------------------- | ------------- |
-| Pierre Chopinet (Chef de projet) | Pas d'absents |
+| Pierre Chopinet (Chef de projet) | Pas d'absent  |
 | Axel Cuissot                     |               |
 | Julien Chevron                   |               |
 | Paul Freifer                     |               |
