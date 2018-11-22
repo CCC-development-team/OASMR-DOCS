@@ -4,12 +4,12 @@
 
 **Date** : 2018-11-22
 
-| Participants                     | Absents       |
-| -------------------------------- | ------------- |
-| Pierre Chopinet (Chef de projet) | Pas d'absent  |
-| Axel Cuissot                     |               |
-| Julien Chevron                   |               |
-| Paul Freifer                     |               |
+| Participants                     | Absents      |
+| -------------------------------- | ------------ |
+| Pierre Chopinet (Chef de projet) | Pas d'absent |
+| Axel Cuissot                     |              |
+| Julien Chevron                   |              |
+| Paul Freifer                     |              |
 
 Secrétaire de séance : Paul Freifer
 
@@ -17,16 +17,11 @@ Secrétaire de séance : Paul Freifer
 
 ### Points abordés
 
-1.  Bilan sur l'avancement du projet :
+1.  Bilan sur l'avancement du projet
     
+2.  Discussion sur les maquettes de l'IHM
 
-2.  Présentation des maquettes :
-
-
-
-3.  Répartition des tâches suivantes : 
-
-
+3.  Répartition des tâches à venir
 
 ### Relevé de Décisions/Actions
 
