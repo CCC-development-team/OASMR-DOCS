@@ -30,4 +30,4 @@ Secrétaire de séance : Paul Freifer
 | ---- | -------------------------------------                  | ------------ | -----------          |
 | 1    | Commencer à coder l'IHM                                | Julien       | avant le 06 décembre |
 | 2    | Mettre en place une communication superviseur/machine  | Pierre       | avant le 06 décembre |
-| 3    | librairie de gestion des paquets               | Axel et Paul | avant le 06 décembre |
+| 3    | Librairie de gestion des paquets               | Axel et Paul | avant le 06 décembre |
