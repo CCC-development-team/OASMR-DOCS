@@ -17,21 +17,16 @@ Secrétaire de séance : Paul Freifer
 
 ### Points abordés
 
-1.  Présentation projet au tuteur :
+1.  Bilan sur l'avancement du projet :
+    
 
-    Le tuteur étant absent au kick-off, l'équipe du projet a présenté le projet au tuteur. 
+2.  Présentation des maquettes :
 
-2.  Déploiement du projet :
 
-    Discussion sur comment et ou déployer le projet, pour le tester.
 
-3.  Risques liés au projet : 
+3.  Répartition des tâches suivantes : 
 
-    Risque majeur sur la tâche de librairie de network, en effet sans cette librairie impossible de réaliser le projet.
 
-4.   Rythme de réunions fixé à 3 semaines
-
-5.   Priorité à apporter au Framework par rapport à l'interface graphique
 
 ### Relevé de Décisions/Actions
 
