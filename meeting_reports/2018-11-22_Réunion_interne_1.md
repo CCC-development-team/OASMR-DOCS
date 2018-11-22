@@ -23,6 +23,7 @@ Secrétaire de séance : Paul Freifer
 
 3.  Répartition des tâches à venir
 
+
 ### Relevé de Décisions/Actions
 
 | N°   | Actions à mener                                        | Qui          | Quand                |
