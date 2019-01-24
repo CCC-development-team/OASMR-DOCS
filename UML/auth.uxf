@@ -1,0 +1,16 @@
+<diagram program="umletino" version="14.3.0"><zoom_level>10</zoom_level><element><id>UMLClass</id><coordinates><x>200</x><y>180</y><w>150</w><h>130</h></coordinates><panel_attributes>User
+--
+-login: String
+-passwordHashed: String
+-authenticated: boolean
+--
++equals(User)</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>470</x><y>180</y><w>190</w><h>130</h></coordinates><panel_attributes>UserList
+--
+--
++addUser(User)
++deleteUser(User)
++modifyUser(User, User)
++authenticate(String, String)
++isAuthenticated(String): boolean
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>340</x><y>220</y><w>150</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;&lt;&lt;-&gt;
+userList</panel_attributes><additional_attributes>130;20;10;20</additional_attributes></element></diagram>
