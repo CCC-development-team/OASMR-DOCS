@@ -45,6 +45,6 @@ Secrétaire de séance : Axel Cuissot
 | N°   | Actions à mener                       | Qui    | Quand        |
 | ---- | ------------------------------------- | ------ | ------------ |
 | 1    | Sécurité de l'application             | Paul   | Rapidement   |
-| 2    | Authentification                      | Axel   | Janvier 2019 |
-| 3    | Sauvegarde des Nodes                  | Pierre | Janvier 2019 |
-| 4    | Poursuivre l'IHM                      | Julien | Janvier 2019 |
+| 2    | Page gèrer les users                  | Axel   | Fevrier 2019 |
+| 3    | Sauvegarde des Nodes +  finir CLI     | Pierre | Fevrier 2019 |
+| 4    | Système ressource bib                 | Julien | Fevrier 2019 |
