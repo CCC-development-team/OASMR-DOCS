@@ -21,8 +21,8 @@ View
 --
 - root : Node
 --
-+ &lt;&lt;a&gt;&gt; onCreate()
-+ &lt;&lt;a&gt;&gt; onStart()
-+ &lt;&lt;a&gt;&gt; onUpdate()
-+ &lt;&lt;a&gt;&gt; onStop()
++ &lt;&lt;A&gt;&gt; onCreate()
++ &lt;&lt;A&gt;&gt; onStart()
++ &lt;&lt;A&gt;&gt; onUpdate()
++ &lt;&lt;A&gt;&gt; onStop()
 + addSubView(View)</panel_attributes><additional_attributes></additional_attributes></element></diagram>
