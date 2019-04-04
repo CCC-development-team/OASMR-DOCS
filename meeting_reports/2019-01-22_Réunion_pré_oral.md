@@ -47,4 +47,4 @@ Secrétaire de séance : Axel Cuissot
 | 1    | Sécurité de l'application             | Paul   | Rapidement   |
 | 2    | Page gèrer les users                  | Axel   | Fevrier 2019 |
 | 3    | Sauvegarde des Nodes +  finir CLI     | Pierre | Fevrier 2019 |
-| 4    | Système ressource bib                 | Julien | Fevrier 2019 |
+| 4    | Système ressource lib                 | Julien | Fevrier 2019 |
