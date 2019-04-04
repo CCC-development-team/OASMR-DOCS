@@ -29,5 +29,5 @@ Secrétaire de séance : Axel Cuissot
 
     - M Chevron très bon à l'oral
     - Rapport très bon, relativement complet
-    - Présentation bonne dans l'ensemble mais peut être surnotée.
+    - Présentation bonne dans l'ensemble mais peut-être surnotée.
     - Une présentation du cluster au début de l'oral et dans le rapport aurait été souhaitable.
