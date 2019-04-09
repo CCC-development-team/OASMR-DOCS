@@ -24,12 +24,11 @@ Secrétaire de séance : Axel Cuissot
 
 2.  Présentation de la sécurité (Paul) :
 
-    Explication de la securité mise en place pour sécuriser la connection node/superviseur
+    Explication de la securité mise en place pour sécuriser la connection node/superviseur.
 
 
 ### Relevé de Décisions/Actions
 
 | N°   | Actions à mener                             | Qui  | Quand       |
 | ---- | ------------------------------------------- | ---- | ----------- |
-| 1    | Préparer la soutenance (vidéo+presentation) | Tous | avant le 10 |
-
+| 1    | Préparer la soutenance (vidéo+présentation) | Tous | avant le 10 |
