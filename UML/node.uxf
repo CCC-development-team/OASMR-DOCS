@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<diagram program="umlet" version="14.3.0">
+  <zoom_level>10</zoom_level>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>340</x>
+      <y>170</y>
+      <w>210</w>
+      <h>150</h>
+    </coordinates>
+    <panel_attributes>NodeData
+--
+-id:Integer
+-name:String
+-lastHeartBeat:LocalDate
+-nodeAddress:InetAddress
+-port:int
+-sshLogin:String
+-sshPort:int
+--
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>40</x>
+      <y>210</y>
+      <w>180</w>
+      <h>90</h>
+    </coordinates>
+    <panel_attributes>&lt;&lt;Abstract&gt;&gt;
+Node
+--
+--
++&lt;&lt;A&gt;&gt;executeCommand(Command c):Serializable
++getData():NodeBean</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>210</x>
+      <y>220</y>
+      <w>150</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;&lt;&lt;-&gt;
+-data</panel_attributes>
+    <additional_attributes>10.0;20.0;130.0;20.0</additional_attributes>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>320</x>
+      <y>390</y>
+      <w>240</w>
+      <h>130</h>
+    </coordinates>
+    <panel_attributes>NodeReal
+--
+-server:Server
+-heart:Heart
+-supervisor:InetAddress
+-supervisorPort:int
+--
++start()
++executeCommand(Command c):Serializable
+
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>UMLClass</id>
+    <coordinates>
+      <x>30</x>
+      <y>390</y>
+      <w>210</w>
+      <h>60</h>
+    </coordinates>
+    <panel_attributes>NodeProxy
+--
+--
++executeCommand(Command c):Serializable
+</panel_attributes>
+    <additional_attributes/>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>210</x>
+      <y>290</y>
+      <w>210</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;190.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>130</x>
+      <y>290</y>
+      <w>30</w>
+      <h>120</h>
+    </coordinates>
+    <panel_attributes>lt=&lt;&lt;-</panel_attributes>
+    <additional_attributes>10.0;10.0;10.0;100.0</additional_attributes>
+  </element>
+  <element>
+    <id>Relation</id>
+    <coordinates>
+      <x>230</x>
+      <y>400</y>
+      <w>110</w>
+      <h>40</h>
+    </coordinates>
+    <panel_attributes>lt=.
+network</panel_attributes>
+    <additional_attributes>10.0;20.0;90.0;20.0</additional_attributes>
+  </element>
+</diagram>
